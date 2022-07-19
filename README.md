@@ -2,7 +2,7 @@
 
 ###Desafio time de dados tratados
 
-###Objetivo desse repositório
+Objetivo desse repositório
 
 O desafio
 Nosso time fictício está interessado em investigar a relevância dos contratos inteligentes
